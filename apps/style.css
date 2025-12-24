@@ -1,4 +1,6 @@
-body {
-  font-family: Arial;
-  background: #f2f2f2;
+.app-icon {
+  width: 96px;
+  height: 96px;
+  border-radius: 20px;
+  margin-bottom: 15px;
 }
